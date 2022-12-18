@@ -19,7 +19,7 @@ Here are the following repos from my computer science degree, all work included 
 |2022 - 2024UWA BSc Computer Sci.| 
 |----------------|---------------|
 | Sem 1 | Sem 2  | Sem 1 | Sem 2 |
-| -------------- | ------------- |
+|----------------|---------------|
 |       |        |       |       |
 |       |        |       |       | 
 
