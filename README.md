@@ -19,11 +19,11 @@ Here are the following repos from my computer science degree...
 |Univeristy of Western Australia  |
 |BSc Computer Science             |
 |2023 * 2nd Year | 2024 * 3rd Year|
-|:----:|:-------:|:----:|:-------:|
+|------|---------|------|---------|
 |Sem 1 |Sem 2    |Sem 1 |Sem 2    | 
 |      |         |      |         | 
 
-| First Header  | Second Header |
+| Sem 1|Sem 2  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
