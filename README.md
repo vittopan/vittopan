@@ -19,30 +19,12 @@ Here are the following repos from my computer science degree, all work included 
 <details open>
 <summary>2023</summary>
 <br>
-<details open>
-<summary>Sem 1</summary>
-<br>
 Projects:
-</details>
-<details open>
-<summary>Sem 2</summary>
-<br>
-Projects:
-</details>
 </details>
 <details open>
 <summary>2024</summary>
 <br>
-<details open>
-<summary>Sem 1</summary>
-<br>
 Projects:
-</details>
-<details open>
-<summary>Sem 2</summary>
-<br>
-Projects:
-</details>
 </details>
 
 ## 💻 Projects
