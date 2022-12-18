@@ -16,12 +16,34 @@ I am currently studying computer science at the University Of Western Australia,
 
 ## 🎓 Computer Science Degree
 Here are the following repos from my computer science degree, all work included is from second year onwards.
-|2022 - 2024UWA BSc Computer Sci.| 
-|----------------|---------------|
-| Sem 1 | Sem 2  | Sem 1 | Sem 2 |
-|----------------|---------------|
-|       |        |       |       |
-|       |        |       |       | 
+<details open>
+<summary>2023</summary>
+<br>
+<details open>
+<summary>Sem 1</summary>
+<br>
+Projects:
+</details>
+<details open>
+<summary>Sem 2</summary>
+<br>
+Projects:
+</details>
+</details>
+<details open>
+<summary>2024</summary>
+<br>
+<details open>
+<summary>Sem 1</summary>
+<br>
+Projects:
+</details>
+<details open>
+<summary>Sem 2</summary>
+<br>
+Projects:
+</details>
+</details>
 
 ## 💻 Projects
 - Project 1
