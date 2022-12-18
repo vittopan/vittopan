@@ -1,6 +1,6 @@
 # 🚀 Vittorio Panaia
 
-**`Digital Craftsman (Developer/Filmaker/Creator)`
+`Digital Craftsman (Developer/Filmaker/Creator)`
 <details open>
 <summary>Contact Me</summary>
 <br>
@@ -13,7 +13,8 @@ I am currently studying computer science at the University Of Western Australia,
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
 
-## Computer Science Degree
+
+## 🎓 Computer Science Degree
 Here are the following repos from my computer science degree...
 |Univeristy of Western Australia  |
 |BSc Computer Science             |
@@ -22,7 +23,7 @@ Here are the following repos from my computer science degree...
 |      |         |      |         | 
 |      |         |      |         | 
   
-## Projects
+## 💻 Projects
 - Project 1
 - Project 2
 - Project 3
