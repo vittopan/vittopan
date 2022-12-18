@@ -12,15 +12,15 @@ I am currently studying computer science at the University Of Western Australia,
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
-
+< />
 
 ## 🎓 Computer Science Degree
 Here are the following repos from my computer science degree...
 |Univeristy of Western Australia  |
 |BSc Computer Science             |
 |2023 * 2nd Year | 2024 * 3rd Year|
-|Sem 1 | Sem 2   |Sem 1 | Sem 2   |
-|      |         |      |         | 
+|:----:|:-------:|:----:|:-------:|
+|Sem 1 |Sem 2    |Sem 1 |Sem 2    | 
 |      |         |      |         | 
   
 ## 💻 Projects
