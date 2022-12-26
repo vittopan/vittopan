@@ -16,7 +16,7 @@ I am currently studying computer science at the University Of Western Australia,
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/></>
-
+#
 ## 🎓 Computer Science Degree
 Here are the following repos from my computer science degree, all work included is from second year onwards.
 <details open>
