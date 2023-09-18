@@ -32,9 +32,6 @@ Projects:
 </details>
 
 ## 💻 Projects
-- Project 1
-- Project 2
-- Project 3
-- Project 4
-- Project 5
-- Project...
+### Project 1: Recipes Project
+Link to Repo: https://github.com/vittopan/odin-recipes.git 
+Link to Website: https:vittopan.github.io/repos/odin-recipes/index.html
