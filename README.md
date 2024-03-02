@@ -18,13 +18,8 @@ I am currently studying computer science at the University Of Western Australia,
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/></>
 
 </>
-### 🎓 Computer Science Degree
+### 🎓 Computer Science and Management Degree
 Here are the following repos from my computer science degree, all work included is from second year onwards.
-<details open>
-<summary>2023</summary>
-<br>
-Projects:
-</details>
 <details open>
 <summary>2024</summary>
 <br>
