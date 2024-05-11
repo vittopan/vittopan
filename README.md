@@ -27,6 +27,9 @@ Projects:
 </details>
 
 ## 💻 Projects
-### Project 1: Recipes Project
+### Highlight Project: Career Compass: Job Seeking Website 
+Link to Repo: https://github.com/saundlj/AgileWebProj
+### Project 2: Recipes Project
 Link to Repo: https://github.com/vittopan/odin-recipes.git 
+
 
