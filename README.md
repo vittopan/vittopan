@@ -24,14 +24,10 @@ I am currently studying computer science at the University Of Western Australia,
 Here are the following repos from my computer science degree, all work included is from second year onwards.
 <details open>
 <summary>2024</summary>
-<br>
-  ## 💻 Projects
-  ### Highlight Project: Career Compass: Job Seeking Website 
-  Link to Repo: https://github.com/saundlj/AgileWebProj
-</details>
 
 ## 💻 Projects
 ### Highlight Project: Career Compass: Job Seeking Website 
 Link to Repo: https://github.com/saundlj/AgileWebProj
 
 
+</details>
