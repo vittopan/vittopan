@@ -25,13 +25,13 @@ Here are the following repos from my computer science degree, all work included 
 <details open>
 <summary>2024</summary>
 <br>
-Projects:
+  ## 💻 Projects
+  ### Highlight Project: Career Compass: Job Seeking Website 
+  Link to Repo: https://github.com/saundlj/AgileWebProj
 </details>
 
 ## 💻 Projects
 ### Highlight Project: Career Compass: Job Seeking Website 
 Link to Repo: https://github.com/saundlj/AgileWebProj
-### Project 2: Recipes Project
-Link to Repo: https://github.com/vittopan/odin-recipes.git 
 
 
