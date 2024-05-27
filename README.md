@@ -28,6 +28,7 @@ Here are the following repos from my computer science degree, all work included 
 ## 💻 Projects
 ### Highlight Project: Career Compass: Job Seeking Website 
 Link to Repo: https://github.com/saundlj/AgileWebProj
-
+### Weather Website
+Link to Repo: https://github.com/vittopan/weatherWebsite
 
 </details>
